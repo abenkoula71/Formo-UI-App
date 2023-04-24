@@ -10,7 +10,7 @@
   
   
   <th align="center">Image Challenge</th>
- <th align="center">Image Challenge</th>
+
 
 </tr>
   
