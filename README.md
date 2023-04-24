@@ -26,11 +26,7 @@
    </a>
   </td>
    
-  <td align="center">  
-   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/227772586-877abbf5-aec0-48bf-bde3-27e9c4d2f119.webm">
 
-   </a>
-  </td>
 
  
  </tr>
