@@ -22,8 +22,7 @@
    <img src="https://raw.githubusercontent.com/abenkoula71/new-project/main/Screenshot%202023-04-23%20035038.png" alt="Logo" with="200" height="400"/>
    </a>
   </td>
-   
-
+  
 
  </tr>
   
