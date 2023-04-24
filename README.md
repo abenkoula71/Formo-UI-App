@@ -14,7 +14,6 @@
   </td>
  </tr>
 </tbody>
-
 </table>
 
 <hr>
